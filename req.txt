@@ -1,0 +1,7 @@
+1. Detect the tree species (starting with Sugar Maple as the base model). (use 3rd party api )
+    2. Assess tree condition through:
+        ◦ Maturity stage (seedling, sapling, mature) 5k usd
+        ◦ Leaf diseases (tar spot, anthracnose, leaf spot, powdery mildew) 6k usd
+        ◦ Vascular disease indicators (suspected verticillium wilt, suspected eutypella canker) 6kusd
+        ◦ Damage detection (broken limb, trunk cavity, dead limb attached) 2kusd
+        ◦ Optional phase: size estimation (height, crown width, trunk diameter) 1kusd
